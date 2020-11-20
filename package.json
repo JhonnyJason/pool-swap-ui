@@ -95,6 +95,7 @@
     "homepage": "https://github.com/JhonnyJason/pool-swap-ui#readme",
     "dependencies": {
         "@makerdao/multicall": "^0.11.0",
+        "@metamask/onboarding": "^1.0.0",
         "browser-sync": "^2.26.13",
         "clean-css-cli": "^4.3.0",
         "coffeescript": "^2.5.1",
